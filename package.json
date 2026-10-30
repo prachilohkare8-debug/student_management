@@ -1,0 +1,19 @@
+{
+  "name": "studentsphere-project",
+  "version": "1.0.0",
+  "description": "StudentSphere - Academic Student Management System (MERN Stack) for Prachi Lohkare (PRN: 202401040083)",
+  "scripts": {
+    "dev": "concurrently -n \"SERVER,CLIENT\" -c \"magenta,cyan\" \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "server": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client",
+    "start": "node server/server.js",
+    "build": "npm run build --prefix client",
+    "test": "npm test --prefix server",
+    "install:all": "npm install && npm install --prefix server && npm install --prefix client"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
