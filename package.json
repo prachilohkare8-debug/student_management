@@ -1,7 +1,7 @@
 {
   "name": "studentsphere-project",
   "version": "1.0.0",
-  "description": "StudentSphere - Academic Student Management System (MERN Stack) for Prachi Lohkare (PRN: 202401040083)",
+  "description": "StudentSphere - Academic Student Management System (MERN Stack) for Prachi Lohkare (PRN: 202401040025)",
   "scripts": {
     "dev": "concurrently -n \"SERVER,CLIENT\" -c \"magenta,cyan\" \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
     "dev:server": "npm run dev --prefix server",

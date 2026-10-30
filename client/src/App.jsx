@@ -182,7 +182,7 @@ export default function App() {
 
       {/* Main App Viewport */}
       <div className="academic-viewport">
-        {/* Clean Top Navigation Bar with Prachi Lohkare (PRN: 202401040083) */}
+        {/* Clean Top Navigation Bar with Prachi Lohkare (PRN: 202401040025) */}
         <Topbar
           activeTab={activeTab}
           setActiveTab={(tab) => {
@@ -324,7 +324,7 @@ export default function App() {
               <strong>StudentSphere</strong> — Modern Academic Student Management Portal &bull; Assignment 7
             </div>
             <div className="footer-right">
-              Student: <strong>Prachi Lohkare</strong> (PRN: <strong>202401040083</strong>) &bull; MITAOE Computer Engineering
+              Student: <strong>Prachi Lohkare</strong> (PRN: <strong>202401040025</strong>) &bull; MITAOE Computer Engineering
             </div>
           </div>
         </footer>

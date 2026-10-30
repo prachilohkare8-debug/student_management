@@ -80,7 +80,7 @@ export default function Topbar({
           <span className="quick-enroll-text">New Student</span>
         </button>
 
-        {/* Student Profile Identity Section: Prachi Lohkare (PRN: 202401040083) */}
+        {/* Student Profile Identity Section: Prachi Lohkare (PRN: 202401040025) */}
         <div
           className="topbar-profile"
           onClick={onOpenAbout}
@@ -93,7 +93,7 @@ export default function Topbar({
           </div>
           <div className="profile-info">
             <span className="profile-name">Prachi Lohkare</span>
-            <span className="profile-role">PRN: 202401040083</span>
+            <span className="profile-role">PRN: 202401040025</span>
           </div>
           <div className="profile-dropdown-arrow">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">

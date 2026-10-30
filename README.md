@@ -3,7 +3,7 @@
 
 **Student Details:**
 - **Name:** Prachi Lohkare
-- **PRN:** 202401040083
+- **PRN:** 202401040025
 - **Branch:** Computer Engineering
 - **Institution:** MIT Academy of Engineering (MITAOE), Alandi, Pune
 - **Course:** B.Tech Computer Engineering • Semester VI

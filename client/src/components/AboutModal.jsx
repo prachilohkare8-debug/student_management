@@ -33,7 +33,7 @@ export default function AboutModal({ isOpen, onClose }) {
             </div>
             <div className="about-student-info">
               <h4>Prachi Lohkare</h4>
-              <p className="about-prn">PRN: <strong>202401040083</strong></p>
+              <p className="about-prn">PRN: <strong>202401040025</strong></p>
               <div className="about-badge-row">
                 <span className="badge-academic">MIT Academy of Engineering</span>
                 <span className="badge-academic-subtle">Computer Engineering</span>
